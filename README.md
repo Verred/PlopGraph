@@ -72,6 +72,7 @@ Para desplegar tu proyecto gratuitamente en internet:
 
 Desarrollado y mantenido por **Verred**:
 - GitHub: [@Verred](https://github.com/Verred)
+- Ko-fi: [ko-fi.com/verred](https://ko-fi.com/verred)
 - Repositorio: [https://github.com/Verred/PlopGraph](https://github.com/Verred/PlopGraph)
 - Correo / Email: [portal_obregon@outlook.es](mailto:portal_obregon@outlook.es)
 
